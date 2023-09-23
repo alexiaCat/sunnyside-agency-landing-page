@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Fraunces:opsz,wght@9..144,700;9..144,900&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.header {
+    background-image: url("./assets/images/desktop/image-header.jpg");
+    background-size: 100% 100%; /* Ajusta el tamaño al 100% de ancho y alto */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}

@@ -1,10 +1,15 @@
-import { Header, Footer } from './components';
+import { Navbar, Header, Footer } from './components';
 
 export const Home = () => {
   return (
     <>
-     <Header/>
-     <Footer/>
+      <div className="w-screen h-screen overflow">
+        <Navbar />
+        <Header/>
+        <Footer />
+
+      </div>
+
     </>
   )
 }
