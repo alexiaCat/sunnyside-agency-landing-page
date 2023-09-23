@@ -1,4 +1,4 @@
-import { Navbar, Header, Box2, Box3, Testimonials, Footer } from './components';
+import { Navbar, Header, Box2, Box3, Testimonials, BoxImages, Footer } from './components';
 
 export const Home = () => {
   return (
@@ -8,7 +8,8 @@ export const Home = () => {
         <Header/>
         <Box2/> 
         <Box3 /> */}
-        <Testimonials/>
+        {/* <Testimonials/> */}
+        <BoxImages/>
         <Footer />
 
       </div>
