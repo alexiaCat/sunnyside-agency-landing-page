@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -11,8 +11,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Built with](#built-with)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository of the solution](https://github.com/alexiaCat/result-summary-component)
-- Live Site URL: [Live Site](https://alexiacat.github.io/result-summary-component/)
+- Solution URL: [Repository of the solution](https://github.com/alexiaCat/sunnyside-agency-landing-page)
+- Live Site URL: [Live Site](https://alexiacat.github.io/sunnyside-agency-landing-page/)
 
 ## My process
 
