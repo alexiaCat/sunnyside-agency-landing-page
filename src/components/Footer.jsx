@@ -1,8 +1,8 @@
-import Logo from '/assets/images/logo.svg';
-import FacebookIcon from '/assets/images/icon-facebook.svg';
-import InstagramIcon from '/assets/images/icon-instagram.svg';
-import PinterestIcon from '/assets/images/icon-pinterest.svg';
-import TwitterIcon from '/assets/images/icon-twitter.svg';
+import Logo from '/images/logo.svg';
+import FacebookIcon from '/images/icon-facebook.svg';
+import InstagramIcon from '/images/icon-instagram.svg';
+import PinterestIcon from '/images/icon-pinterest.svg';
+import TwitterIcon from '/images/icon-twitter.svg';
 
 
 export const Footer = () => {

@@ -1,3 +1,6 @@
+import Huevo from '/images/desktop/image-transform.jpg';
+import Copa from '/images/desktop/image-stand-out.jpg';
+
 export const Box2 = () => {
     return (
         <div className="flex flex-col w-screen h-auto md:h-[1200px] font-fraunces">
@@ -9,14 +12,22 @@ export const Box2 = () => {
                 </div>
 
                 <div className="w-full md:w-1/2 md:h-auto h-[300px]">
-                    <img src="/assets/images/desktop/image-transform.jpg" alt="huevo" style={{ maxWidth: '100%', height: '100%', width: '100%', maxHeight: '600px' }} />
+                <img
+                        src={Huevo}
+                        alt="Huevo"
+                        className="max-w-full h-auto w-full max-h-[600px]"
+                    />
                 </div>
             </div>
 
 
             <div className="flex  flex-col md:flex-row md:h-1/2 h-[740px]">
                 <div className="w-full md:w-1/2 md:h-auto h-[300px]">
-                    <img src="/assets/images/desktop/image-stand-out.jpg" alt="copa" style={{ maxWidth: '100%', height: '100%', width: '100%', maxHeight: '600px' }} />
+                    <img
+                        src={Copa}
+                        alt="Copa"
+                        className="max-w-full h-auto w-full max-h-[600px]"
+                    />
                 </div>
 
                 <div className=" w-full md:w-1/2 px-7 md:text-left text-center md:px-[150px] flex flex-col md:h-auto h-[440px] justify-center">

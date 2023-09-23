@@ -4,7 +4,7 @@
 @tailwind utilities;
 
 .header {
-    background-image: url("./assets/images/desktop/image-header.jpg");
+    background-image: url("/images/desktop/image-header.jpg");
     background-size: 100% 100%; 
     background-position: center;
     background-repeat: no-repeat;
