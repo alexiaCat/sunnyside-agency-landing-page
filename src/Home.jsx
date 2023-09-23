@@ -1,13 +1,14 @@
-import { Navbar, Header, Box2, Box3, Footer } from './components';
+import { Navbar, Header, Box2, Box3, Testimonials, Footer } from './components';
 
 export const Home = () => {
   return (
     <>
       <div className="w-screen h-screen overflow">
-        <Navbar />
+        {/* <Navbar />
         <Header/>
         <Box2/> 
-        <Box3 />
+        <Box3 /> */}
+        <Testimonials/>
         <Footer />
 
       </div>
