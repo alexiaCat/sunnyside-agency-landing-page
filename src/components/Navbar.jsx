@@ -1,5 +1,5 @@
 import { useState, useEffect }from 'react';
-import Logo from '/assets/images/logo.svg';
+import Logo from '/assets/images/logofff.svg';
 
 
 
@@ -30,7 +30,7 @@ export const Navbar = () => {
 
     return (
         <nav className="bg-[#3cbdfd] fixed top-0 w-screen z-10 menu-container ">
-            <div className="py-9 md:px-14 px-8  text-neutral-white">
+            <div className="py-6 md:py-9 md:px-14 px-8  text-neutral-white">
                 <div className="flex items-center justify-between">
 
                     <div className="flex items-center">
@@ -59,7 +59,7 @@ export const Navbar = () => {
                         <a href="#" className="">About</a>
                         <a href="#" className="">Services</a>
                         <a href="#" className="">Projects</a>
-                        <button className="bg-white rounded-full text-black py-5 px-10 font-fraunces">
+                        <button className="bg-white rounded-full text-black hover:bg-[#80D2FC] hover:border-none hover:text-white py-5 px-10 font-fraunces">
                             CONTACT
                         </button>
                     </div>
@@ -72,19 +72,19 @@ export const Navbar = () => {
                     <div className="bg-neutral-white py-10  text-center text-neutral-dark-grayish-blue text-[21px] font-bold rounded-lg shadow-lg ">
                         <a
                             href="#"
-                            className="block py-8   hover:bg-gray-700"
+                            className="block py-5  "
                         >
                             About
                         </a>
                         <a
                             href="#"
-                            className="block py-8  hover:bg-gray-700"
+                            className="block py-5 "
                         >
                             Services
                         </a>
                         <a
                             href="#"
-                            className="block py-8  hover:bg-gray-700"
+                            className="block py-5 "
                         >
                             Projects
                         </a>

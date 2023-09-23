@@ -5,8 +5,9 @@
 
 .header {
     background-image: url("./assets/images/desktop/image-header.jpg");
-    background-size: 100% 100%; /* Ajusta el tamaño al 100% de ancho y alto */
+    background-size: 100% 100%; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover
 }
+
