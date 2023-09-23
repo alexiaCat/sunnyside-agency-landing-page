@@ -1,5 +1,4 @@
-
-import Arrow from '../assets/images/icon-arrow-down.svg';
+import Arrow from '/assets/images/icon-arrow-down.svg';
 
 export const Header = () => {
     return (

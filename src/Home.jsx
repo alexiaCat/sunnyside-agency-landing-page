@@ -1,4 +1,4 @@
-import { Navbar, Header, Footer } from './components';
+import { Navbar, Header, Box2, Box3, Footer } from './components';
 
 export const Home = () => {
   return (
@@ -6,6 +6,8 @@ export const Home = () => {
       <div className="w-screen h-screen overflow">
         <Navbar />
         <Header/>
+        <Box2/> 
+        <Box3 />
         <Footer />
 
       </div>
